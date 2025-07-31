@@ -68,9 +68,6 @@ except AttributeError as e:
 
 # Creating a Property with Getter and Setter: You can define both getter and setter methods for an attribute, which allows you to customize how the attribute is accessed and modified.
 
-# python
-# Copy
-# Edit
 # class MyClass:
 #     def __init__(self, value):
 #         self._value = value
@@ -106,10 +103,6 @@ except AttributeError as e:
 
 # In summary, property decorators provide a powerful way to control access to instance attributes, making them an essential tool in object-oriented programming with Python.
 # """
-
-# vbnet
-# Copy
-# Edit
 
 # ### **Explanation of Key Concepts in Comments**:
 # - **`@property` Decorator**:

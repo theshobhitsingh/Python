@@ -7,7 +7,6 @@
 # Syntax:
 # isinstance(object, classinfo)
 # object: The object to be checked.
-
 # classinfo: A class or a tuple of classes to check against.
 
 # Example Demonstrating Inheritance and isinstance():
@@ -77,15 +76,12 @@ print(my_electric_car.display_info())
 # True
 # False
 # This car is a Tesla Model 3 with a battery size of 75 kWh.
-# Key Points:
+
 # Inheritance:
-
 # In Python, a class can inherit attributes and methods from another class using class inheritance. This is achieved by specifying the parent class in the parentheses when defining the child class.
-
 # A child class can extend or override methods and attributes from the parent class.
 
 # isinstance():
-
 # isinstance() is used to check if an object is an instance of a specific class or a subclass of it.
 
 # It returns True if the object is an instance of the specified class or any of its subclasses, and False otherwise.
